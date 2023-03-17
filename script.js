@@ -9,6 +9,7 @@ str=str.replace(" ","");
 		{
 			return false;
 		}
+		i++;
 	}
 	return true;
 	
